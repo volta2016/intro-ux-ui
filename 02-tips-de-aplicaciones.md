@@ -44,20 +44,38 @@ de dispositivos móviles pequeñas y es una buena base para diseñar tanto para 
 
 - No necesitan ser descargadas, instaladas o configuradas
 
-- Las aplicaciones web corren a través del navegador, si el día de mañana hay una actualización o requiere de una nueva funcioalidad el programador va enviar cambios y como es una App que esta corriendo en el navegador se va actualizar. Tu como usuario no necesitas hacer nada, no necesitas instalarlas
+- Las aplicaciones web corren a través del navegador, si el día de mañana hay una actualización o requiere de una nueva funcionalidad el programador va enviar cambios y como es una App que está corriendo en el navegador se va actualizar. Tu como usuario no necesitas hacer nada, no necesitas instalarlas
 
 # Desventajas de las aplicaciones WEB
 
-- No se ecuentran en las tiendas oficiales de los sistemas operativos
+- No se encuentran en las tiendas oficiales de los sistemas operativos
 
-- No se ecuentran de manera oficial en las tiendas de aplicaciones, tu vas a ir a la App store o la play Store y no vas encontrar esa aplicación para descargarla de manera normal
+- No se encuentran de manera oficial en las tiendas de aplicaciones, tu vas a ir a la App store o la play Store y no vas encontrar esa aplicación para descargarla de manera normal
 
-- Rendimiento limitado por la respuesta del navegador. El redimiento puede ser muy bueno o muy malo dependiendo del disposito y el internet. Si nuetro publico objeto o usuario final siempre estan conectados con datos, siempre estan con una red wifi cerca, Entonces una solución web de este tipo con estas ventajas y limites puede ser una solución
+- Rendimiento limitado por la respuesta del navegador. El rendimiento puede ser muy bueno o muy malo dependiendo del dispositivo y el internet. Si nuestro público objeto o usuario final siempre están conectados con datos, siempre están con una red wifi cerca, Entonces una solución web de este tipo con estas ventajas y límites puede ser una solución
 
 - La funcionalidad sin internet queda totalmente descartadas
 
-# Ventajas de las PWA (Progresive Web App)
+# Ventajas de las PWA (Progressive Web App)
 
-Une lo mejor de las aplicaciones nativas, lo mejor de las apliaciones web, Son aplicaciones que se instalan en tu dispositivo, pero corren en el navegador.
+Une lo mejor de las aplicaciones nativas, lo mejor de las aplicaciones web, Son aplicaciones que se instalan en tu dispositivo, pero corren en el navegador.
 
-Un acceso direco que tu lo pones en tu pantalla de tu dispositivo movil independientemente al sistema operativo, hace un acceso directo como si fuera una pagina web y cuando tu lo abres la interfaz muta y se ve como si fuera una aplicación, nativa, se ciente como una una aplicación nativa pero realmente, todo el procesado toda la lógica esta corriendo a través del navegador. Por lo cual tampoco requiere tanto almacenamiento y todo va a funcionar el navegador.
+Un acceso directo que tu lo pones en tu pantalla de tu dispositivo móvil independientemente al sistema operativo, hace un acceso directo como si fuera una página web y cuando tu lo abres la interfaz muta y se ve como si fuera una aplicación, nativa, se siente como una una aplicación nativa pero realmente, todo el procesado toda la lógica está corriendo a través del navegador. Por lo cual tampoco requiere tanto almacenamiento y todo va a funcionar el navegador.
+
+- No necesitan descargarse, con lo que no ocupan espacio en el móvil
+
+- Se pueden ocupar sin conexión a internet gracias a su tecnología **Service Worker**
+
+- No se requiere desarrollar una programación para cada sistema operativo (se trabaja con lenguajes enfocados para la web)
+
+# Desventajas de las PWA (Progressive Web App)
+
+- No pueden acceder a todas las funcionalidades de los dispositivos
+
+- Por el momento no todos los navegadores son compatibles con las PWA
+
+- Su tecnología aún no permite crear sitios muy complejos
+
+¿ Entonces cuál elegir ?
+
+Depende el punto es que conoscas las ventajas y desventajas a la hora de diseñar y proponer solcuciones. Hay que diseñar pensando en nuestro usuarios
