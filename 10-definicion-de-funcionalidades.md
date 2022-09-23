@@ -22,3 +22,13 @@ apoyar del user Journey y el user Persona.
 - Recordatorio antes de tener la cita ¿5, 10, 15 minutos?
 
 Pocas funcionalidades bien resueltas, antes que muchas mal implementadas.
+
+Funcionalidades de Airbnb
+
+- Muestra de días no disponibles.
+- Selecionar la entrada y salida.
+- Diferentes estados en la selección de días
+
+![1](/images/state-1.png)
+
+![2](/images/state-2.png)
