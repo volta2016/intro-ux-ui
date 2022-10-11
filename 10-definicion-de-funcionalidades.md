@@ -29,6 +29,6 @@ Funcionalidades de Airbnb
 - Selecionar la entrada y salida.
 - Diferentes estados en la selección de días
 
-![1](/images/state-1.png)
+Created in touchdesigner
 
 ![2](/images/state-2.png)

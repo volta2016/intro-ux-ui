@@ -1,41 +1,36 @@
-# 01 La importancia de las App
+# 01 The importance of Apps
 
-Las app estan en todos lados en nuestroo día a día. Tenemos
-a facebook, instagram, messenger y whatsapp entre otras.
+Apps are everywhere in our daily lives. We have
+facebook, instagram, messenger and whatsapp among others.
 
-Continuar escribiendo
-¿ Te imaginas un mundo sin estas aplicaciones ?
+Can you imagine a world without these applications?
 
-Todo esto nace desde la llegada del primer Iphone, Este hito
-fue un antes y un después. En como la tecnología y los sistemas
-operativos trabajan a partir de aplicaciones. Estas aplicaciones
-eran desarrolladas por terceros.
+All this was born since the arrival of the first Iphone.
+was a before and after. In how technology and operating systems
+from applications. These applications
+were developed by third parties.
 
-La primera llegada del primer iphone detono que existiera la tienda de aplicaciones
-para poder desarrollar como developer mas aplicaciones y publicarlas dentro de las aplicaciones de apple.
+The first arrival of the first iphone detonated that there was the application store
+to be able to develop as a developer more applications and publish them within the apple applications.
 
-Esto lo que genero un conjunto de nuevos trabajos
+This generated a set of new jobs.
 
-## beneficios de este lanzamiento
+## benefits of this launch
 
-- Nuevos trabajos
-- Mejores herramientas
-- Fácil Lanzamiento
+- New jobs
+- Better tools
+- Easy Launch
 
-El hecho de traer nuevos trabajos significa que trajeron nuevas áreas nuevas necesidades
-que las personas en el mundo de la tecnología, con el fin de poder abrir si tienda y hacer
-que terceros desarrollen aplicaciones. Se necesito mas desarrolladores mas personas comenzaron
-a lanzar productos innovadores, más personas comenzaron a transformar sus ideas a modelos
-digitales. Nacieron nuevas áreas como el diseño de experiencia de usuarios y diseño de interfaces
-de usuarios. Al tener esta necesidad y lanzar mas productos se generaron mas empleos tanto como de:
+Bringing in new jobs meant that they brought in new areas and new needs.
+People in the technology world, in order to be able to open their store and have third parties develop applications.
+third parties to develop applications. More developers were needed, more people started more people started to launch innovative products, more people started to transform their ideas into digital models. New areas like user experience design and user interface design were born. By having this need and launching more products, more jobs were generated both in:
 
-- diseño
-- desarrollo
+- design
+- development
 
-También mejoraron las herramientas para producir App dichas tecnologías. Comenzaron a salir software
-como sketch para crear en UI. Antes estaba Photoshop y Illustrator pero los software tuvieron que evolucionar.
-Por eso hay mas alternativas muy buenas como Figma y adobe XD.
+Also the tools to produce Apps for these technologies improved. Software such as sketch to create UI like sketch to create UI. Before there was Photoshop and Illustrator but the software had to evolve. That's why there are more good alternatives like Figma and adobe XD.
 
-Con la llegada del iphone se hizo mas fácil el lanzamiento de App nuevas. Con una licencia de Apple mandaban
-su App, apple la validaba, revisa que no es código malicioso lo aprueba y con eso ya era visible en las tiendas
-de aplicaciones.
+With the arrival of the iphone it became easier to launch new apps. With a license from Apple they sent their App, apple validated it, checked that it was not malicious code, approved it and with that it was already visible in the app stores.
+App stores.
+
+Translated with www.DeepL.com/Translator (free version)
