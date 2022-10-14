@@ -26,7 +26,7 @@ Pocas funcionalidades bien resueltas, antes que muchas mal implementadas.
 Funcionalidades de Airbnb
 
 - Muestra de días no disponibles.
-- Selecionar la entrada y salida.
+- Seleccionar la entrada y salida.
 - Diferentes estados en la selección de días
 
 ![2](/images/state-2.png)

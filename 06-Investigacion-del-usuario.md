@@ -3,7 +3,7 @@
 ## La importancia de la investigación en el UX
 
 Para diseñar un producto digital tenemos que tener presente las motivaciones, necesidades y problemas de los usuarios.
-Aquí van entrar 2 puntos muy importantes uno de ellos es el.
+Aquí van a entrar 2 puntos muy importantes, uno de ellos es el.
 
 - User persona
 - User journey

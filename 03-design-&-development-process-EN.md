@@ -8,7 +8,7 @@ Everything is born from the need to solve a specific problem.
 
 ## Stages of the design process
 
-![ff](/images/design-process-stages.jpg)
+![ff](/images/estapas-del-proceso-de-diseno.jpg)
 
 There is a methodology to provide a solution to a specific problem in only 5 days. This methodology is called **design spring**.
 

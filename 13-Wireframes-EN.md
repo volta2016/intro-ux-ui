@@ -13,13 +13,13 @@ Hay 3 fidelidades en la construcción de wareframes:
 Comenzamos a definir los distintos estados de nuestra
 del flujo de nuestra aplicación.
 
-Todo este flujo se va a estar enviando a un panel administrador.
+Todo este flujo se va estar enviando a un panel administrador.
 
 - Pueden tener métricas sobre las horas en que se agenda
-- Cuáles son los días más solicitados
-- Ya se puede tomar decisiones y mejorar la experiencia, las ventas
+- Cuales son los días mas solicitados
+- Ya se puede tomar decisiones y mejorar la experiencia, la ventas
 
-Esa es la importancia de crear un producto digital
+Esa es lo importancia de crear un un producto digital
 y saber sus 2 vertientes.
 
 - La entrada de información y el resultado donde se va,
